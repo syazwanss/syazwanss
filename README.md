@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @syazwanss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+SCM Lab W6
 
-<!---
-syazwanss/syazwanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi Human!
+
+Fakhruddin here, I like Node.js and Coffeescript (that's what I made of). I've had tacos on the moon and find them superior to Earth tacos.
